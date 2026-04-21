@@ -16,3 +16,7 @@ Remote Sensed Environmental Data – 1-2 GB
 ## Project Goals
 
 While golden eagle (Aquila chrysaetos) population trends and occupancy status are stable or slightly decreasing across their entire range, this information is not known for the population of eagles that inhabit Eastern Oregon. I am using a historic data set (2011-2020) to model eagle occupancy and reproductive rates across Eastern Oregon to evaluate correlations with landscape scale environmental factors including primary production, drought, fire, and human development. Concurrently we are collecting data in the four northeast counties (Umatilla, Union, Baker, Wallowa) in order to evaluate the ability of the occupancy and productivity models to predict population status within that region.
+
+## Hypotheses
+
+Golden eagle occupancy is correlated with reduced....
